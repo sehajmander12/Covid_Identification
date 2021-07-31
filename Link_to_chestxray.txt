@@ -1,0 +1,3 @@
+https://github.com/ieee8023/covid-chestxray-dataset
+
+(THIS LINK CONTAINS X-RAY IMAGES OF COVID-POSITIVE PATIENTS)

@@ -1,0 +1,3 @@
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+(THIS LINK CONTAINS X-RAY IMAGES OF COVID-NEGATIVE PATIENTS)
